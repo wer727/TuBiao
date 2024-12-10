@@ -3,6 +3,6 @@
 "description":"自用", 
 "icons":
     [
-	{"name":"AuroraMedia", "url":"https://github.com/wer727/TuBiao/blob/main/TuBiao/AuroraMedia.png"}
+	{"name":"AuroraMedia", "url":"https://raw.githubusercontent.com/wer727/TuBiao/refs/heads/main/TuBiao/AuroraMedia.png"}
     ]
 }
